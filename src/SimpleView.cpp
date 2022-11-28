@@ -1,7 +1,4 @@
-/*
- *  Author: Brandon Parker
- *  Version: 2021-11-18
- */
+
 
 #include <GL/glew.h>
 #include "pixmap/RGBpixmap.h"
